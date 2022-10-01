@@ -1,4 +1,4 @@
-# Pagina Web para el Evento del HacktoberFest <img src="logo.jpg" alt="logo" width="30px">
+# Pagina Web para el Evento del HacktoberFest <img src="logo2.jpg" alt="logo" width="30px">
 
 *Proyecto enteramente creado por*  **@xaqui** y **@eloygar**
 ---
@@ -19,4 +19,4 @@ Hacktoberfest es un **evento anual en todo el mundo que se realiza durante el me
 ---
 
 ### Pulse la imagen para mas info
-[<img src="logo.jpg" alt="logo" width="70px">](https://hacktoberfest.com/about/)
+[<img src="logo2.jpg" alt="logo" width="70px">](https://hacktoberfest.com/about/)
