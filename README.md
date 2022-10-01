@@ -1,17 +1,22 @@
-# Pagina Web para el Evento del HacktoberFest <img width="30px" src="logo.jpg">
+# Pagina Web para el Evento del HacktoberFest <img src="logo.jpg" alt="logo" width="30px">
 
-*Proyecto esta enteramente creado por*  **@xaqui** y **@eloygar**
+*Proyecto enteramente creado por*  **@xaqui** y **@eloygar**
 ---
+## Que es hacktoberfest ?
 
+Hacktoberfest es un **evento anual en todo el mundo que se realiza durante el mes de octubre**. El evento anima a los desarrolladores de código abierto a contribuir en los repositorios a través de solicitudes de incorporación de cambios (PR).
+[Participar](https://hacktoberfest.com/)
+
+---
 ## To do
 
-- [ ] Usar logos e imagenes
+- [x] Usar logos e imagenes
 - [ ] Crear alguna forma de intección
 - [ ] Añadir mas animaciones
-- [ ] Crear estructura básica de la Pagina
+- [x] Crear estructura básica de la Pagina
 
 > Este proyecto es público y cualquiera puede contribuir para ayudar en el mismo con **cualquier** tipo de aporte interesante
 ---
-[Pulse aqí para participar en el evento](https://hacktoberfest.com/)
-![texto_alternativo](logo.jpg){width=20 height=30}
-[mas info](https://hacktoberfest.com/about/)
+
+### Pulse la imagen para mas info
+[<img src="logo.jpg" alt="logo" width="70px">](https://hacktoberfest.com/about/)
