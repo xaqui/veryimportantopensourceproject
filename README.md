@@ -11,8 +11,8 @@ Hacktoberfest es un **evento anual en todo el mundo que se realiza durante el me
 ## To do
 
 - [x] Usar logos e imagenes
-- [ ] Crear alguna forma de intección
-- [ ] Añadir mas animaciones
+- [x] Crear alguna forma de intección
+- [x] Añadir mas animaciones
 - [x] Crear estructura básica de la Pagina
 
 > Este proyecto es público y cualquiera puede contribuir para ayudar en el mismo con **cualquier** tipo de aporte interesante
